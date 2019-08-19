@@ -4,7 +4,7 @@ import 'dart:core';
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'triangle_painter.dart';
 
 abstract class MenuItemProvider {
